@@ -36,7 +36,7 @@ Combino código, idiomas y curiosidad espacial en cada proyecto.
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [ OrbitSpace](https://orbitspace.vercel.app) | Plataforma web de satélites y misiones espaciales con IA | React · FastAPI · MySQL |
-| [Adelia Backend]() | Asistente IA para PYMEs — leads y SEO automático | PHP · MySQL · WordPress |
+| [Adelia Backend](https://github.com/Argenika/Adelia-Backend) | Asistente IA para PYMEs — leads y SEO automático | PHP · MySQL · WordPress |
 | [ Scraper de Ferias](https://github.com/Argenika/scraper-ferias-wordpress) | Extracción automatizada de datos de ferias sectoriales | Python · Selenium · BeautifulSoup |
 
 ---
