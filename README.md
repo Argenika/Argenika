@@ -47,4 +47,4 @@ Combino código, idiomas y curiosidad espacial en cada proyecto.
 ##  Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-lepeshko-b9a410329/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://TU-DOMINIO.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)]((https://angelinalepeshko.netlify.app/))
