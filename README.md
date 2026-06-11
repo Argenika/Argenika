@@ -42,7 +42,7 @@ Combino código, idiomas y curiosidad espacial en cada proyecto.
 | [Earth Risk Dashboard](https://github.com/Argenika/earth-risk-dashboard) | Sistema de monitorización de amenazas globales en tiempo real con mapa interactivo, alertas automáticas y procesamiento en background. | Python · FastAPI · SQLite · Leaflet.js |
 | [Pulse Monitoring](https://github.com/Argenika/pulse-monitoring-system) | Monitorización en tiempo real de telemetría de la ISS con dashboard interactivo, alertas y workers en segundo plano. | Python · FastAPI · SQLite · Chart.js · Threading |
 | [AutoStart AI Bot](https://github.com/Argenika/autostart-parts-ai-assistant) | Bot de Telegram con IA para búsqueda inteligente de piezas industriales, compatibilidades cruzadas y consulta de stock en tiempo real. | Python · Telegram API · OpenAI · MySQL |
-
+| [Mission Control Dashboard](https://mission-control-frontend-0dx7.onrender.com) | Plataforma full-stack de monitorización de telemetría satelital en tiempo real con backend Spring Boot y frontend React. | Java · Spring Boot · PostgreSQL · React · Docker |
 ---
 
 ##  Contacto
