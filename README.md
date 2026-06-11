@@ -28,7 +28,7 @@ Combino código, idiomas y curiosidad espacial en cada proyecto.
 
 ##  Idiomas
 
-🇷🇺 Ruso — Nativa &nbsp;|&nbsp; 🇪🇸 Español — C2 &nbsp;|&nbsp; 🇬🇧 English — B2+
+🇷🇺 Ruso — Nativa &nbsp;|&nbsp; 🇪🇸 Español — C1 &nbsp;|&nbsp; 🇬🇧 English — B1
 
 ---
 
